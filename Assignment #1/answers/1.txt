@@ -1,0 +1,1 @@
+curl --data "param1=value1&param2=value2" "http://tuskersolutions.com" -o path/8.html
